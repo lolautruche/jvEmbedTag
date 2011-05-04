@@ -2,12 +2,28 @@
 
 [CustomTagSettings]
 AvailableCustomTags[]=youtube
+AvailableCustomTags[]=dailymotion
+AvailableCustomTags[]=vimeo
 CustomTagsDescription[youtube]=Youtube Video
+CustomTagsDescription[dailymotion]=DailyMotion Video
+CustomTagsDescription[vimeo]=Vimeo Video
 
 [youtube]
 CustomAttributes[]
-CustomAttributes[]=presentation_url
-CustomAttributes[]=width
-CustomAttributes[]=height
+CustomAttributes[]=video
+CustomAttributes[]=videoWidth
+CustomAttributes[]=videoHeight
+
+[dailymotion]
+CustomAttributes[]
+CustomAttributes[]=video
+CustomAttributes[]=videoWidth
+CustomAttributes[]=videoHeight
+
+[vimeo]
+CustomAttributes[]
+CustomAttributes[]=video
+CustomAttributes[]=videoWidth
+CustomAttributes[]=videoHeight
 
 */ ?>

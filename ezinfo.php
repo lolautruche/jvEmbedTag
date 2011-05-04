@@ -7,7 +7,7 @@
  * @package metalfrance
  */
 
-class metalfranceInfo
+class jvembedtagInfo
 {
     public static function info()
     {
