@@ -3,8 +3,8 @@
     <metadata>
         <name>jvEmbedTag</name>
         <version>@@@VERSION@@@</version>
-        <copyright>Copyright (C) 2011 Jérôme Vieilledent</copyright>
-        <license>GNU General Public License v2.0</license>
+        <copyright>Copyright © 2011-2014 Jérôme Vieilledent</copyright>
+        <license>MIT</license>
     </metadata>
 
     <dependencies>
