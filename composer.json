@@ -1,0 +1,19 @@
+{
+    "name": "lolautruche/embedtag-ls",
+    "description": "Collection of custom tags for eZ Publish, to embed external content like from YouTube, DailyMotion or Vimeo",
+    "type": "ezpublish-legacy-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jérôme Vieilledent",
+            "email": "lolautruche@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezfind"
+    }
+}
