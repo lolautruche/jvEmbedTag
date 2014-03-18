@@ -2,7 +2,7 @@
 <software>
     <metadata>
         <name>jvEmbedTag</name>
-        <version>@@@VERSION@@@</version>
+        <version>1.0</version>
         <copyright>Copyright © 2011-2014 Jérôme Vieilledent</copyright>
         <license>MIT</license>
     </metadata>

@@ -10,7 +10,7 @@ class jvembedtagInfo
     {
         return array(
             'Name' => 'jvEmbedTag',
-            'Version' => '@@@VERSION@@@',
+            'Version' => '1.0',
             'Copyright' => 'Copyright © 2011-' . date( 'Y' ) . ' <a href="http://www.lolart.net">Lolart.net</a>',
             'Authors' => 'Jérôme Vieilledent',
             'License' => 'MIT'
