@@ -2,9 +2,9 @@
 
 class JVEmbedTagFunctionCollection
 {
-    const YOUTUBE_VIDEOID_REGEXP = '@^http://www\.youtube\.com/watch\?v=(?P<videoId>[^&]+)@',
-          DAILYMOTION_VIDEOID_REGEXP = '@^http://www\.dailymotion\.com/video/(?P<videoId>[^_]+)_.+@',
-          VIMEO_VIDEOID_REGEXP = '@^http://(www\.)?vimeo\.com/(?P<videoId>[^/?]+)@';
+    const YOUTUBE_VIDEOID_REGEXP = '@^https?://www\.youtube\.com/watch\?v=(?P<videoId>[^&]+)@',
+          DAILYMOTION_VIDEOID_REGEXP = '@^https?://www\.dailymotion\.com/video/(?P<videoId>[^_]+)_.+@',
+          VIMEO_VIDEOID_REGEXP = '@^https?://(www\.)?vimeo\.com/(?P<videoId>[^/?]+)@';
 
     /**
      * Returns embed URL for a Youtube video, from its link
